@@ -1,8 +1,9 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/9CffOPMLx0Hf2" width="480"/>
+  <img src="https://media.giphy.com/media/9CffOPMLx0Hf2/giphy.gif" width="480"/>
 </div>
 
 ### Hi there 👋
+
 
 <!--
 **evgenkoks/evgenkoks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
