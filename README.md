@@ -2,4 +2,6 @@
   <img src="https://media.giphy.com/media/9CffOPMLx0Hf2/giphy.gif" width="480"/>
 </div>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eugenkoks)](https://github.com/anuraghazra/github-readme-stats)
+<div id="header" align="center">
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eugenkoks)](https://github.com/anuraghazra/github-readme-stats)
+</div>
